@@ -29,7 +29,7 @@ If you don't want to train just evaluate: python HYPO_LLM.py
 
 ---
 
-# CL_Lab_Project
+# Are Linguistic Features Complementary to Smaller Language Models for $\alpha$-NLI? An Empirical Study with Perceptron and T5
 ## Repository for CL Team Lab Project
 
 ### Team Members:
